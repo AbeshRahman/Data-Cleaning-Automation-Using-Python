@@ -35,7 +35,7 @@ Identified agents with the highest rating score (5.0).
 
 Calculated and ranked the average call duration of each agent.
 
-![Average Call Duration](Screenshot 2026-06-07 194806.png)
+![Average Call Duration](https://github.com/AbeshRahman/Data-Cleaning-Automation-Using-Python/blob/main/Screenshot%202026-06-07%20194750.png)
 
 ---
 
