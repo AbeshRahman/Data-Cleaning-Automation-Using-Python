@@ -52,7 +52,7 @@ Measured the percentage of successful calls handled by each agent.
 Analyzed the relationship between agent ratings and successful call outcomes using a correlation analysis and box plot.
 
 ![Correlation Analysis](https://github.com/AbeshRahman/Data-Cleaning-Automation-Using-Python/blob/main/Screenshot%202026-06-07%20194840.png)
-
+![Visualization](https://github.com/AbeshRahman/Data-Cleaning-Automation-Using-Python/blob/main/Screenshot%202026-06-07%20194848.png)
 ---
 
 ## 💡 Key Business Insights
