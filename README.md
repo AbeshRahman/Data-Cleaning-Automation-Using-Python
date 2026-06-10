@@ -62,9 +62,5 @@ Analyzed the relationship between agent ratings and successful call outcomes usi
 * Compare call success performance.
 * Support data-driven decision-making.
 
-## 👨‍💻 Author
-
 **Shah Abesh Rahman**
-BBA Student, University of Dhaka
-Interested in Business Analytics, Data Analytics & Process Automation.
 
