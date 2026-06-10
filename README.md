@@ -19,7 +19,7 @@ This project analyzes call center agent performance using Python by evaluating k
 * Imported the CSV dataset.
 * Combined agent names and converted important columns into numeric format.
 
-![Data Loading](Screenshot 2026-06-07 194710.png)
+https://github.com/AbeshRahman/Data-Cleaning-Automation-Using-Python/blob/main/Screenshot%202026-06-07%20194710.png
 
 ---
 
