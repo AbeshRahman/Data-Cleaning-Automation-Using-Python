@@ -27,7 +27,7 @@ This project analyzes call center agent performance using Python by evaluating k
 
 Identified agents with the highest rating score (5.0).
 
-![Top Performing Agents](Screenshot 2026-06-07 194750.png)
+![Top Performing Agents](https://github.com/AbeshRahman/Data-Cleaning-Automation-Using-Python/blob/main/Screenshot%202026-06-07%20194737.png)
 
 ---
 
